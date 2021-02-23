@@ -1,0 +1,31 @@
+<html>
+
+<head>
+  <title>360 Video Stream Viewer</title>
+  <link rel="stylesheet" href="../css/main.css">
+  <script type="text/javascript" src="../lib/js/jquery.min.js"></script>
+  <script type="text/javascript" src="../lib/js/three.min.js"></script>
+  <script type="text/javascript" src="../lib/js/StereoEffect.js"></script>
+  <script type="text/javascript" src="../lib/js/DeviceOrientationControls.js"></script>
+  <script type="text/javascript" src="../lib/js/OrbitControls.js"></script>
+  <script type="text/javascript" src="../lib/js/WebVR.js"></script>
+  <script type="text/javascript" src="../lib/js/GLTFLoader.js"></script>
+  <script type="text/javascript" src="../js/thetaview.js"></script>
+</head>
+
+<body>
+
+  <div class="videoContainer" id="videoContainer">
+    <video class="video" id="remoteVideo" autoplay></video>
+  </div>
+
+  <script type="text/javascript">
+    window.localClientID = 'viewer';
+    window.remoteClientID = 'broadcaster';
+  </script>
+
+  <script type="text/javascript" src="../js/main.js"></script>
+
+</body>
+
+</html>

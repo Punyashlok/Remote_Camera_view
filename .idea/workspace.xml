@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="645bbfcc-0661-4e00-9896-53601b3c09af" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-807199186">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Web-Broadcaster-and-Viewer-Clients/broadcaster/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Nodejs-Server/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/basic-auth/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/body-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/body-parser/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/cors/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/finalhandler/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/finalhandler/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/morgan/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/morgan/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/morgan/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/node-static/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/router/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/router/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/router/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/router/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/router/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/toidentifier/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/Nodejs-Server/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="31" />
+    <option name="y" value="43" />
+    <option name="width" value="1838" />
+    <option name="height" value="1068" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WebRTC-360-Video-Chat-Samples-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebRTC-360-Video-Chat-Samples-main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebRTC-360-Video-Chat-Samples-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebRTC-360-Video-Chat-Samples-main" type="462c0819:PsiDirectoryNode" />
+              <item name="Nodejs-Server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebRTC-360-Video-Chat-Samples-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebRTC-360-Video-Chat-Samples-main" type="462c0819:PsiDirectoryNode" />
+              <item name="Web-Broadcaster-and-Viewer-Clients" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebRTC-360-Video-Chat-Samples-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebRTC-360-Video-Chat-Samples-main" type="462c0819:PsiDirectoryNode" />
+              <item name="Web-Broadcaster-and-Viewer-Clients" type="462c0819:PsiDirectoryNode" />
+              <item name="broadcaster" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="645bbfcc-0661-4e00-9896-53601b3c09af" name="Default Changelist" comment="" />
+      <created>1614114130302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614114130302</updated>
+      <workItem from="1614114131579" duration="190000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="190000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="31" y="43" width="1838" height="1068" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986242" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Web-Broadcaster-and-Viewer-Clients/broadcaster/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
